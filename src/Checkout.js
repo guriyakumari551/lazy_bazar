@@ -12,7 +12,7 @@ function Checkout() {
     return (
         <div className="checkout">
         <div className="checkout_left">
-            <img className="checkout__ad" src="https://images-eu.ssl-images-amazon.com/images/G/31/img21/TVs/Nireeksh/BankOfferMay25/D23679665_IN_HETV_Citi_25th-May_Stripe_1500x80.jpg" alt="" />
+            <img className="checkout__ad" src="https://images-eu.ssl-images-amazon.com/images/G/0…UPDATE__XSite_1500x600_PV_en-GB._CB428684220_.jpg" alt="" />
             {
                 basket?.length === 0 ?
                 (
